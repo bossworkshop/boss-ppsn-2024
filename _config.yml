@@ -3,7 +3,7 @@ description: <b>B</b>ayesian and surr<b>O</b>gate-a<b>S</b>sisted <b>S</b>earch 
 baseurl: ""
 url: https://bossworkshop.github.io/
 
-theme: jekyll-nagymaros
+remote_theme: piazzai/jekyll-nagymaros@v1.1.0
 
 copyright: Place Holder
 indexing: true
