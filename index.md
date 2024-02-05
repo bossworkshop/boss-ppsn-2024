@@ -1,6 +1,6 @@
 ---
 layout: index
-description: A simple Jekyll theme for a conference or workshop website
+description: "<b>B</b>ayesian and surr<b>O</b>gate-a<b>S</b>sisted <b>S</b>earch and Optimisation - PPSN workshop 2024"
 ---
 
 In many real world optimisation problems evaluating the objective function(s) is expensive, perhaps requiring days of
