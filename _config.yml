@@ -1,12 +1,15 @@
-theme: jekyll-theme-minimal
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-    - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: BOSS - PPSN workshop 2024
+title: BOSS-2024
 description: <b>B</b>ayesian and surr<b>O</b>gate-a<b>S</b>sisted <b>S</b>earch and Optimisation - PPSN workshop 2024
-show_downloads: true
-logo: /assets/img/logo.png
-github:
-    organisers_url: /organisers.md
-    call_url: /call.md
-    ppsn_url: https://ppsn2024.fh-ooe.at/
+baseurl: ""
+url: https://piazzai.github.io/jekyll-nagymaros
+
+theme: jekyll-nagymaros
+
+copyright: Place Holder
+indexing: true
+
+permalink: pretty
+
+exclude:
+    - LICENSE
+    - README.md
