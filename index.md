@@ -3,23 +3,11 @@ layout: index
 description: "<b>B</b>ayesian and surr<b>O</b>gate-a<b>S</b>sisted <b>S</b>earch and Optimisation - PPSN workshop 2024"
 ---
 
-In many real world optimisation problems evaluating the objective function(s) is expensive, perhaps requiring days of
-computation for a single evaluation. Surrogate-assisted optimisation attempts to alleviate this problem by employing
-computationally cheap 'surrogate' models to estimate the objective function(s) or the ranking relationships of the
-candidate solutions.
+In many real-world optimisation problems, evaluating the objective function(s) can be costly, in terms of time and/or money. Surrogate-assisted optimisation attempts to alleviate this problem by utilising comparatively cheap surrogate models to estimate objective function value(s) at any location in decision space and, potentially, capture any uncertainty in those predictions. Techniques based on Bayesian Optimisation (Efficient Global Optimisation), and surrogate-assisted approaches more generally, have been employed in tackling a wide variety of optimisation problems. These include both single- and multi-objective optimisation problems, as well as those with time-varying objectives, constraints, solution robustness requirements, and problems with both deterministic and stochastic outputs.
 
-Bayesian Optimisation, and Surrogate-assisted approaches more generally, have been widely used across the field of
-optimisation. Surrogates have been employed in solving a variety of optimisation problems, such as multi-objective
-optimisation, dynamic optimisation, and robust optimisation. Surrogate-assisted methods have also found successful
-applications to aerodynamic design optimisation, structural design optimisation, data-driven optimisation, chip design,
-drug design, robotics and many more. Interestingly, the need for on-line learning of the surrogates has led to a
-fruitful crossover between the machine learning and evolutionary optimisation communities, where advanced learning
-techniques such as ensemble learning, active learning, semi-supervised learning and transfer learning have been
-employed in surrogate construction.
+There are many great success stories of using surrogate-based optimisation strategies to solve some of the most expensive real-world problems, such as hyperparameter tuning of machine learning models, neural architecture search, material design, reinforcement learning, design optimisation in computational fluid dynamics, and drug discovery. Despite the numerous successful applications of surrogate-based optimisation methods, there are still fundamentally challenging aspects to both applying existing methods to new problems and developing new methods to address outstanding methodological challenges. These include effectively modelling objective functions with non-smooth characteristics, spatial-dependent length-scales, and high-dimensional input spaces, designing effective and efficient acquisition functions, utilising the gradient and the Hessian matrix, as well as taking into account the preferences of the decision maker during the optimisation, i.e., bringing the human back into the optimisation loop.
 
-Despite recent successes in using surrogate-assisted evolutionary optimisation, there remain many challenges. The
-Workshop on Bayesian and surrOgate aSsisted Search and Optimisation (BOSS) to be held at PPSN 2024 in Hagenberg,
-Austria, aims to promote the research on Bayesian Optimisation and surrogate-assisted optimisation, particularly those
+The workshop will focus on the sharing of best practice, examining the latest methodological improvements and discussing Bayesian Optimisation and other surrogate-assisted optimisation strategies, particularly those that take inspiration from nature. In doing so, the organisers hope to foster new collaborations among researchers and practitioners, bridging the gaps between theoretical advances and practical applications. The Workshop on Bayesian and surrOgate aSsisted Search and Optimisation (BOSS) to be held at PPSN 2024 in Hagenberg, Austria, aims to promote the research on Bayesian Optimisation and surrogate-assisted optimisation, particularly those
 that take inspiration from nature. Topics of interest include (but are not limited to):
 
 ## Topics of interest
@@ -40,22 +28,7 @@ that take inspiration from nature. Topics of interest include (but are not limit
 - Performance improvement techniques in surrogate-assisted evolutionary computation
 - Performance assessment of surrogate-assisted evolutionary algorithms
 
-## Call for papers
-
-We invite short papers of up to 8 pages (excluding references) presenting novel developments in one or more of these
-areas, or other areas relevant to surrogate-assisted evolutionary optimisation. We welcome position papers of up to 2
-pages (including references) showcasing exciting exploratory and preliminary results.
-
-Proposals for short demonstrations or presentations (5-10 minutes) on the following topics are also welcome:
-
-- Surrogate-assisted optimisation in real world
-- Contemporary test problems in surrogate-assisted optimisation
-- Other relevant accepted PPSN papers or recent journal papers
-- For detailed information on the forthcoming workshop and the submission process, please see: Call for Papers
-
-<a href="./call.md">Find out more here</a>
-
 ### Contact
 
-If you have any enquiries or suggestions about BOSS, please email us:
+If you have any enquiries or suggestions about BOSS, please email contact:
 p.u.kent @ exeter.ac.uk

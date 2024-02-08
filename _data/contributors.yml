@@ -1,13 +1,22 @@
 groups:
   - title: Programme Organisers
-    columns: false
+    columns: true
     members:
-      - name: Aptenodytes
-        surname: Patagonicus
-        email: king@pengu.in
-      - name: Aptenodytes
-        surname: Forsteri
-        email: emperor@pengu.in
+      - name: Tinkle
+        surname: Chugh
+        email: t.chugh@exeter.ac.uk
+      - name: George
+        surname: De Ath
+        email: g.de.ath@exeter.ac.uk
+      - name: Paul
+        surname: Kent
+        email: p.u.kent@exeter.ac.uk
+      - name: Alma
+        surname: Rahat
+        email: a.a.m.rahat@swansea.ac.uk
+      - name: Kaifeng
+        surname: Yang
+        email: kaifeng.yang@fh-hagenberg.at
   # - title: Local organizer
   #   columns: false
   #   members:
