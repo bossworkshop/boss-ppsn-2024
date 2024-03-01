@@ -11,20 +11,20 @@ We invite authors/participants to submit new ideas, positional statements, and r
 
 Please send your submissions to [George De Ath](g.de.ath@exeter.ac.uk)
 
-Topics of interest
-Bayesian optimisation.
-Advanced machine learning techniques for constructing surrogates
-Model management in surrogate-assisted optimisation
-Multi-level, multi-fidelity surrogates
-Complexity and efficiency of surrogate-assisted methods
-Small and big data-driven evolutionary optimisation
-Model approximation in dynamic, robust and multi-modal optimisation
-Model approximation in multi- and many-objective optimisation
-Surrogate-assisted evolutionary optimisation of high-dimensional problems
-Comparison of different modelling methods in surrogate construction
-Surrogate-assisted identification of the feasible region
-Comparison of evolutionary and non-evolutionary approaches with surrogate models
-Test problems for surrogate-assisted evolutionary optimisation
-Performance improvement techniques in surrogate-assisted evolutionary computation
-Performance assessment of surrogate-assisted evolutionary algorithms
+## Topics of interest
 
+- Bayesian optimisation.
+- Advanced machine learning techniques for constructing surrogates
+- Model management in surrogate-assisted optimisation
+- Multi-level, multi-fidelity surrogates
+- Complexity and efficiency of surrogate-assisted methods
+- Small and big data-driven evolutionary optimisation
+- Model approximation in dynamic, robust and multi-modal optimisation
+- Model approximation in multi- and many-objective optimisation
+- Surrogate-assisted evolutionary optimisation of high-dimensional problems
+- Comparison of different modelling methods in surrogate construction
+- Surrogate-assisted identification of the feasible region
+- Comparison of evolutionary and non-evolutionary approaches with surrogate models
+- Test problems for surrogate-assisted evolutionary optimisation
+- Performance improvement techniques in surrogate-assisted evolutionary computation
+- Performance assessment of surrogate-assisted evolutionary algorithms
