@@ -5,9 +5,12 @@ description: "Call for abstracts"
 navorder: 4
 ---
 
-We invite authors/participants to submit new ideas, positional statements, and reviews/summaries/comments/techniques on Bayesian and surrogate-assisted search and optimisation. We especially welcome submissions from early career researchers and PhD's. Submissions should be in the form of 1-page abstracts (1 page abstract PDF file). 
+We invite authors/participants to submit new ideas, positional statements, and reviews/summaries/comments/techniques on Bayesian and surrogate-assisted search and optimisation. Accepted abstracts will be asked to provide a 15 minute talk with 5 minutes for questions. We have a very strong preference for in-person presentations and submissions should indicate their intention to attend in person when submitting.
 
-**NOTE** - Submissions will not be published in the conference proceedings unless already accepted through the conference submission process. 
+We especially welcome submissions from early career researchers and PhD's. 
+
+**Submission Format**
+Submissions should be in the form of 1-page abstracts (1 page abstract PDF file). 
 
 Please send your submissions to [George De Ath](g.de.ath@exeter.ac.uk)
 
@@ -28,3 +31,5 @@ Please send your submissions to [George De Ath](g.de.ath@exeter.ac.uk)
 - Test problems for surrogate-assisted evolutionary optimisation
 - Performance improvement techniques in surrogate-assisted evolutionary computation
 - Performance assessment of surrogate-assisted evolutionary algorithms
+
+**NOTE** - Submissions will not be published in the conference proceedings unless already accepted through the conference submission process. 
