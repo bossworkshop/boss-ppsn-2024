@@ -13,7 +13,7 @@ We especially welcome submissions from early career researchers and PhD's.
 
 Submissions should be in the form of 1-page abstracts (1 page abstract PDF file). 
 
-Please send your submissions to [George De Ath](g.de.ath@exeter.ac.uk)
+Please send your submissions to [George De Ath](mailto:g.de.ath@exeter.ac.uk)
 
 ----
 
