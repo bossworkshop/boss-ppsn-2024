@@ -1,5 +1,6 @@
 ---
 layout: index
+title: Call for abstracts
 description: "Call for abstracts"
 navorder: 4
 ---
