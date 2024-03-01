@@ -5,7 +5,7 @@ description: "Call for abstracts"
 navorder: 4
 ---
 
-We invite authors/participants to submit new ideas, positional statements, and reviews/summaries/comments/techniques on Bayesian and surrogate-assisted search and optimisation. Accepted abstracts will be asked to provide a 15 minute talk with 5 minutes for questions. We have a very strong preference for in-person presentations and submissions should indicate their intention to attend in person when submitting.
+We invite authors/participants to submit new ideas, positional statements, and reviews/summaries/comments/techniques on Bayesian and surrogate-assisted search and optimisation. Accepted abstracts will be asked to provide a 15 minute talk with 5 minutes for questions. All presentations will be in-person and submissions are understood to indicate the authors intention to attend in person when submitting.
 
 We especially welcome submissions from early career researchers and PhD's. 
 
