@@ -31,4 +31,4 @@ that take inspiration from nature. Topics of interest include (but are not limit
 ### Contact
 
 If you have any enquiries or suggestions about BOSS, please email contact:
-[Paul Kent](p.u.kent@exeter.ac.uk)
+[Paul Kent](mailto:p.u.kent@exeter.ac.uk)
