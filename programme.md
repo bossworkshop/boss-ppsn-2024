@@ -1,5 +1,5 @@
 ---
-layout: programme
+layout: index
 title: Programme
 description: Schedule of talks and activities
 navorder: 5
