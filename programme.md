@@ -2,7 +2,7 @@
 layout: programme
 title: Programme
 description: Schedule of talks and activities
-navorder:
+navorder:1
 ---
 
 TBD.
