@@ -5,11 +5,9 @@ description: Schedule of talks and activities
 navorder: 5
 ---
 
-# Workshop Programme
-
 The workshop will consist of **two invited speakers** (30 minutes each) and several short talks (10-15 minutes each) on the workshop topics. Below is the schedule and information about the speakers and planned talks.
 
-## Invited Speakers
+## **Invited Speakers**
 
 ### Elena Raponi
 **Tentative Title:** *Maximizing Impact with Few Trials Using High-Dimensional Bayesian Optimization*
