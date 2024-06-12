@@ -33,7 +33,7 @@ The workshop will consist of **three invited speakers** and several short talks 
         <h3>Elena Raponi</h3>
         <p><strong>Tentative Title:</strong> <em>Maximizing Impact with Few Trials Using High-Dimensional Bayesian Optimization</em></p>
       </div>
-      <img src="/images/elena_raponi_profile.jpg" alt="Elena Raponi" style="width: 100px; height: 130px; margin-left: 20px;">
+      <img src="/images/elena_raponi_profile.jpg" alt="Elena Raponi" style="width: 105px; height: 130px; margin-left: 20px;">
     </div>
     <div>
       <p><strong>Bio:</strong><br>
