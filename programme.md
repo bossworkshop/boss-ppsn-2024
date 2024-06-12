@@ -11,7 +11,7 @@ The workshop will consist of **three invited speakers** and several short talks 
 
 <div style="background-color: #94d2bd; padding: 15px; margin-bottom: 20px;">
   <div style="display: flex; align-items: center;">
-    <img src="/profile_blank.png" alt="Juergen Branke" style="width: 100px; height: 100px; margin-right: 20px;">
+    <img src="/juergen_branke_profile.jpg" alt="Juergen Branke" style="width: 100px; height: 100px; margin-right: 20px;">
     <div>
       <h3>Juergen Branke</h3>
       <p><strong>Title TBC:</strong></p>
