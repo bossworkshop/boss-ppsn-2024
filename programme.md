@@ -22,7 +22,7 @@ The workshop will consist of **three invited speakers** and several short talks 
   </div>
 </div>
 
-<div style="background-color: #f5f5dc; padding: 15px; margin-bottom: 20px;">
+<div style="background-color: #9ac12f; padding: 15px; margin-bottom: 20px;">
   <div style="display: flex; align-items: center;">
     <img src="/profile_blank.png" alt="Elena Raponi" style="width: 100px; height: 100px; margin-right: 20px;">
     <div>
@@ -34,7 +34,7 @@ The workshop will consist of **three invited speakers** and several short talks 
   </div>
 </div>
 
-<div style="background-color: #94d2bd; padding: 15px; margin-bottom: 20px;">
+<div style="background-color: #b79a2e; padding: 15px; margin-bottom: 20px;">
   <div style="display: flex; align-items: center;">
     <img src="/profile_blank.png" alt="Bhupinder Singh Saini" style="width: 100px; height: 100px; margin-right: 20px;">
     <div>
