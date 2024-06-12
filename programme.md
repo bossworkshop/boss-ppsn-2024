@@ -9,7 +9,7 @@ The workshop will consist of **three invited speakers** and several short talks 
 
 ## **Invited Speakers**
 
-<div style="background-color: #f0f8ff; padding: 15px; margin-bottom: 20px;">
+<div style="background-color: #94d2bd; padding: 15px; margin-bottom: 20px;">
   <div style="display: flex; align-items: center;">
     <img src="/profile_blank.png" alt="Juergen Branke" style="width: 100px; height: 100px; margin-right: 20px;">
     <div>
@@ -34,7 +34,7 @@ The workshop will consist of **three invited speakers** and several short talks 
   </div>
 </div>
 
-<div style="background-color: #f0fff0; padding: 15px; margin-bottom: 20px;">
+<div style="background-color: #94d2bd; padding: 15px; margin-bottom: 20px;">
   <div style="display: flex; align-items: center;">
     <img src="/profile_blank.png" alt="Bhupinder Singh Saini" style="width: 100px; height: 100px; margin-right: 20px;">
     <div>
