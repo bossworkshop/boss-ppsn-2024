@@ -9,7 +9,7 @@ The workshop will consist of **three invited speakers** and several short talks 
 
 ## **Invited Speakers**
 
-<div style="background-color: #d9e6d9; padding: 15px; margin-bottom: 20px;">
+<div style="background-color: #e9f1e9; padding: 15px; margin-bottom: 20px;">
   <div style="display: flex; flex-direction: column;">
     <div style="display: flex; justify-content: space-between; align-items: center;">
       <div>
@@ -26,7 +26,7 @@ The workshop will consist of **three invited speakers** and several short talks 
   </div>
 </div>
 
-<div style="background-color: #eaf2d9; padding: 15px; margin-bottom: 20px;">
+<div style="background-color: #f5f9e9; padding: 15px; margin-bottom: 20px;">
   <div style="display: flex; flex-direction: column;">
     <div style="display: flex; justify-content: space-between; align-items: center;">
       <div>
@@ -42,7 +42,7 @@ The workshop will consist of **three invited speakers** and several short talks 
   </div>
 </div>
 
-<div style="background-color: #f3eed9; padding: 15px; margin-bottom: 20px;">
+<div style="background-color: #f9f7e9; padding: 15px; margin-bottom: 20px;">
   <div style="display: flex; flex-direction: column;">
     <div style="display: flex; justify-content: space-between; align-items: center;">
       <div>
