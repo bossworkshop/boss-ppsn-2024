@@ -9,14 +9,14 @@ The workshop will consist of **three invited speakers** and several short talks 
 
 ## **Invited Speakers**
 
-<div style="background-color: #a3c6a3; padding: 15px; margin-bottom: 20px;">
+<div style="background-color: #d9e6d9; padding: 15px; margin-bottom: 20px;">
   <div style="display: flex; flex-direction: column;">
     <div style="display: flex; justify-content: space-between; align-items: center;">
       <div>
         <h3>Juergen Branke</h3>
         <p><strong>Title TBC:</strong></p>
       </div>
-      <img src="/images/juergen_branke.jpg" alt="Juergen Branke" style="width: 100px; height: 100px; margin-left: 20px;">
+      <img src="/images/juergen_branke_profile.jpg" alt="Juergen Branke" style="width: 130px; height: 130px; margin-left: 20px;">
     </div>
     <div>
       <p><strong>Bio:</strong><br>
@@ -26,14 +26,14 @@ The workshop will consist of **three invited speakers** and several short talks 
   </div>
 </div>
 
-<div style="background-color: #cde4a6; padding: 15px; margin-bottom: 20px;">
+<div style="background-color: #eaf2d9; padding: 15px; margin-bottom: 20px;">
   <div style="display: flex; flex-direction: column;">
     <div style="display: flex; justify-content: space-between; align-items: center;">
       <div>
         <h3>Elena Raponi</h3>
         <p><strong>Tentative Title:</strong> <em>Maximizing Impact with Few Trials Using High-Dimensional Bayesian Optimization</em></p>
       </div>
-      <img src="/images/elena_raponi.jpg" alt="Elena Raponi" style="width: 100px; height: 100px; margin-left: 20px;">
+      <img src="/images/elena_raponi_profile.jpg" alt="Elena Raponi" style="width: 100px; height: 130px; margin-left: 20px;">
     </div>
     <div>
       <p><strong>Bio:</strong><br>
@@ -42,14 +42,14 @@ The workshop will consist of **three invited speakers** and several short talks 
   </div>
 </div>
 
-<div style="background-color: #dbd2a7; padding: 15px; margin-bottom: 20px;">
+<div style="background-color: #f3eed9; padding: 15px; margin-bottom: 20px;">
   <div style="display: flex; flex-direction: column;">
     <div style="display: flex; justify-content: space-between; align-items: center;">
       <div>
         <h3>Bhupinder Singh Saini</h3>
         <p><strong>Title:</strong> <em>Multiobjective Optimization Method for Problems with Expensive Objective Function Evaluations: Optimistic NAUTILUS Navigator</em></p>
       </div>
-      <img src="/images/bhupinder_singh_saini.jpg" alt="Bhupinder Singh Saini" style="width: 100px; height: 100px; margin-left: 20px;">
+      <img src="/images/Bhupinder_Saini_profile.jpg" alt="Bhupinder Singh Saini" style="width: 130px; height: 130px; margin-left: 20px;">
     </div>
     <div>
       <p><strong>Abstract:</strong> Real-world multiobjective optimization problems often involve expensive-to-evaluate objective functions. One way to solve such problems is through the use of so-called online data-driven multiobjective optimization algorithms. These algorithms use data (either pre-existing or generated before optimization) to train surrogate models to replace the expensive objective functions during optimization to generate an approximate non-dominated front. Notably, these algorithms evaluate a few solutions intermittently using the expensive objective functions and retrain the surrogate models to increase the accuracy of the approximation. In practice, however, often, the goal in solving multiobjective optimization problems is to find only one (or few) solutions that are of interest to a decision maker/problem owner. Therefore, spending expensive objective function evaluations with the aim of finding solutions that may not be of interest to the DM may be wasteful.</p>
