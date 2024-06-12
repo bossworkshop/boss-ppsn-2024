@@ -11,7 +11,7 @@ The workshop will consist of **three invited speakers** and several short talks 
 
 <div style="background-color: #94d2bd; padding: 15px; margin-bottom: 20px;">
   <div style="display: flex; align-items: center;">
-    <img src="/juergen_branke_profile.jpg" alt="Juergen Branke" style="width: 100px; height: 100px; margin-right: 20px;">
+    <img src="/images/juergen_branke_profile.jpg" alt="Juergen Branke" style="width: 100px; height: 100px; margin-right: 20px;">
     <div>
       <h3>Juergen Branke</h3>
       <p><strong>Title TBC:</strong></p>
@@ -24,7 +24,7 @@ The workshop will consist of **three invited speakers** and several short talks 
 
 <div style="background-color: #9ac12f; padding: 15px; margin-bottom: 20px;">
   <div style="display: flex; align-items: center;">
-    <img src="/profile_blank.png" alt="Elena Raponi" style="width: 100px; height: 100px; margin-right: 20px;">
+    <img src="/images/elena_raponi_profile.jpg" alt="Elena Raponi" style="width: 100px; height: 100px; margin-right: 20px;">
     <div>
       <h3>Elena Raponi</h3>
       <p><strong>Tentative Title:</strong> <em>Maximizing Impact with Few Trials Using High-Dimensional Bayesian Optimization</em></p>
@@ -36,7 +36,7 @@ The workshop will consist of **three invited speakers** and several short talks 
 
 <div style="background-color: #b79a2e; padding: 15px; margin-bottom: 20px;">
   <div style="display: flex; align-items: center;">
-    <img src="/profile_blank.png" alt="Bhupinder Singh Saini" style="width: 100px; height: 100px; margin-right: 20px;">
+    <img src="/images/Bhupinder_Saini_profile.jpg" alt="Bhupinder Singh Saini" style="width: 100px; height: 100px; margin-right: 20px;">
     <div>
       <h3>Bhupinder Singh Saini</h3>
       <p><strong>Title:</strong> <em>Multiobjective Optimization Method for Problems with Expensive Objective Function Evaluations: Optimistic NAUTILUS Navigator</em></p>
