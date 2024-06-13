@@ -5,7 +5,7 @@ description: Schedule of talks and activities
 navorder: 5
 ---
 
-The workshop will consist of **three invited speakers** and several short talks (10-15 minutes each) on the workshop topics. Below is the schedule and information about the speakers and planned talks.
+The workshop will consist of **three invited speakers** (40-45 minutes each) and several shorter talks (10-15 minutes each) on the workshop topics. Below is the schedule and information about the speakers and planned talks.
 
 ## **Invited Speakers**
 
