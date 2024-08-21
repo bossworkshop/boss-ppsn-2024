@@ -33,10 +33,12 @@ The workshop will consist of **three invited speakers** (40-45 minutes each) and
       <img src="/images/elena_raponi_profile.jpg" alt="Elena Raponi" style="width: 105px; height: 130px; margin-right: 20px;">
       <div>
         <h3>Elena Raponi</h3>
-        <p><strong>Tentative Title:</strong> <em>Maximizing Impact with Few Trials Using High-Dimensional Bayesian Optimization</em></p>
+        <p><strong>Title:</strong> <em>Maximizing Impact with Few Trials Using High-Dimensional Bayesian Optimization</em></p>
       </div>
     </div>
     <div>
+      <p><strong>Abstract:</strong> <br> Bayesian Optimization (BO) is a class of powerful surrogate-based, iterative techniques for the optimization of expensive black-box functions. In this talk, I will provide a comprehensive overview of state-of-the-art methodologies in high-dimensional BO, focusing on strategies that address the curse of dimensionality and maximize efficiency and accuracy within small evaluation budgets.
+I will present a range of techniques, including variable selection, additive models, and methods for search space reduction such as the use of trust regions and both linear and nonlinear mappings. Additionally, I will discuss case studies demonstrating the application of BO in engineering design, highlighting its significant potential for solving complex problems in both academic and industrial contexts. The presentation will conclude with an examination of current challenges and open questions in the field, identifying key areas for future research.
       <p><strong>Bio:</strong><br>
       Elena Raponi is an Assistant Professor in the Natural Computing Research Group at the Leiden Institute of Advanced Computer Science, Leiden University. Previously, she was a Postdoctoral Researcher at the Technical University of Munich, Chair of Computational Mechanics, and Sorbonne University, LIP6 Department. Her position was funded by a DAAD Prime Postdoctoral Fellowship, which was awarded in December 2021. She received her Ph.D. in Applied Mathematics from the University of Camerino, Italy, in May 2021. Her research mainly focuses on surrogate-based optimization in continuous domains, high-dimensional Bayesian optimization, and analytical and numerical modeling techniques for the optimization of geometries and materials in structural mechanics.</p>
     </div>
