@@ -47,7 +47,6 @@ The workshop will consist of **three invited speakers** (40-45 minutes each) on 
     </tr>
   </tbody>
 </table>
-                  
 
 <br>
 
@@ -82,9 +81,12 @@ The workshop will consist of **three invited speakers** (40-45 minutes each) on 
     </div>
     <div>
       <p><strong>Abstract:</strong> <br> Bayesian Optimization (BO) is a class of powerful surrogate-based, iterative techniques for the optimization of expensive black-box functions. In this talk, I will provide a comprehensive overview of state-of-the-art methodologies in high-dimensional BO, focusing on strategies that address the curse of dimensionality and maximize efficiency and accuracy within small evaluation budgets.
-I will present a range of techniques, including variable selection, additive models, and methods for search space reduction such as the use of trust regions and both linear and nonlinear mappings. Additionally, I will discuss case studies demonstrating the application of BO in engineering design, highlighting its significant potential for solving complex problems in both academic and industrial contexts. The presentation will conclude with an examination of current challenges and open questions in the field, identifying key areas for future research.
+I will present a range of techniques, including variable selection, additive models, and methods for search space reduction such as the use of trust regions and both linear and nonlinear mappings. Additionally, I will discuss case studies demonstrating the application of BO in engineering design, highlighting its significant potential for solving complex problems in both academic and industrial contexts. The presentation will conclude with an examination of current challenges and open questions in the field, identifying key areas for future research.</p>
       <p><strong>Bio:</strong><br>
       Elena Raponi is an Assistant Professor in the Natural Computing Research Group at the Leiden Institute of Advanced Computer Science, Leiden University. Previously, she was a Postdoctoral Researcher at the Technical University of Munich, Chair of Computational Mechanics, and Sorbonne University, LIP6 Department. Her position was funded by a DAAD Prime Postdoctoral Fellowship, which was awarded in December 2021. She received her Ph.D. in Applied Mathematics from the University of Camerino, Italy, in May 2021. Her research mainly focuses on surrogate-based optimization in continuous domains, high-dimensional Bayesian optimization, and analytical and numerical modeling techniques for the optimization of geometries and materials in structural mechanics.</p>
+    </div>
+  </div>
+</div> <!-- Missing closing div added here -->
 
 <div id="bhupinder-singh-saini" style="background-color: #f9f7e9; padding: 15px; margin-bottom: 20px;">
   <div style="display: flex; flex-direction: column;">
@@ -102,7 +104,6 @@ I will present a range of techniques, including variable selection, additive mod
     </div>
   </div>
 </div>
-</div>
 
 ## Workshop Talks
 1. TBC
@@ -111,3 +112,4 @@ I will present a range of techniques, including variable selection, additive mod
 4. TBC
 
 Additional details will be provided as the event date approaches. Please check back for updates.
+
