@@ -9,15 +9,45 @@ The workshop will consist of **three invited speakers** (40-45 minutes each) on 
 
 ## **Schedule**
 
-| Time   | Activity                                |
-|--------|-----------------------------------------|
-| 09:30  | **Welcome/ Workshop opens** (5 mins)    |
-| 09:35  | [**Elena Raponi** - click for title (45 mins)](#elena-raponi) |
-| 10:20  | [**Bhupinder Singh Saini** - click for title (45 mins)](#bhupinder-singh-saini) |
-| 11:05  | **Break** (15 mins)                     |
-| 11:20  | [**Juergen Branke** - click for title (45 mins)](#juergen-branke) |
-| 12:05  | **Opportunity for discussion**          |
-| 12:30  | **Workshop closes**                     |
+<table style="width: 100%; border-collapse: collapse;">
+  <thead>
+    <tr style="background-color: #f5f5f5; border-bottom: 2px solid #ddd;">
+      <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">Time</th>
+      <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">Activity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">09:30</td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><strong>Welcome/ Workshop opens</strong> (5 mins)</td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+      <td style="padding: 10px; border: 1px solid #ddd;">09:35</td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><a href="#elena-raponi"><strong>Elena Raponi</strong> - click for title</a> (45 mins)</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">10:20</td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><a href="#bhupinder-singh-saini"><strong>Bhupinder Singh Saini</strong> - click for title</a> (45 mins)</td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+      <td style="padding: 10px; border: 1px solid #ddd;">11:05</td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><strong>Break</strong> (15 mins)</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">11:20</td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><a href="#juergen-branke"><strong>Juergen Branke</strong> - click for title</a> (45 mins)</td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+      <td style="padding: 10px; border: 1px solid #ddd;">12:05</td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><strong>Opportunity for discussion</strong></td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">12:30</td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><strong>Workshop closes</strong></td>
+    </tr>
+  </tbody>
+</table>
+                  
 
 <br>
 
