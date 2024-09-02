@@ -105,10 +105,3 @@ I will present a range of techniques, including variable selection, additive mod
   </div>
 </div>
 
-## Workshop Talks
-1. TBC
-2. TBC
-3. TBC
-4. TBC
-
-Additional details will be provided as the event date approaches. Please check back for updates.
