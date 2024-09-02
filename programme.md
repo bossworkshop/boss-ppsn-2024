@@ -5,7 +5,19 @@ description: Schedule of talks and activities
 navorder: 5
 ---
 
-The workshop will consist of **three invited speakers** (40-45 minutes each) and several shorter talks (10-15 minutes each) on the workshop topics. Below is the schedule and information about the speakers and planned talks.
+The workshop will consist of **three invited speakers** (40-45 minutes each) on the workshop topics followed by discussion. Below is the schedule and information about the speakers and planned talks.
+
+## **Schedule**
+
+| Time   | Activity                                |
+|--------|-----------------------------------------|
+| 09:30  | **Welcome/ Workshop opens** (5 mins)    |
+| 09:35  | **Elena Raponi** - Maximizing Impact with Few Trials Using High-Dimensional Bayesian Optimization (45 mins) |
+| 10:20  | **Bhupinder Singh Saini** - Multiobjective Optimization Method for Problems with Expensive Objective Function Evaluations: Optimistic NAUTILUS Navigator (45 mins) |
+| 11:05  | **Break** (15 mins)                     |
+| 11:20  | **Juergen Branke** - Bayesian Optimisation with Simulation Input Uncertainty (45 mins) |
+| 12:05  | **Opportunity for discussion**          |
+| 12:30  | **Workshop closes**                     |
 
 ## **Invited Speakers**
 
