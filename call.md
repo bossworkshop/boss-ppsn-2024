@@ -4,16 +4,17 @@ title: Call for abstracts
 description: "Call for abstracts"
 navorder: 4
 ---
+# Submissions are now closed
 
-We invite authors/participants to submit new ideas, positional statements, and reviews/summaries/comments/techniques on Bayesian and surrogate-assisted search and optimisation. Accepted abstracts will be asked to provide a 15 minute talk with 5 minutes for questions. All presentations will be in-person and submissions are understood to indicate the authors intention to attend in person when submitting.
+~~We invite authors/participants to submit new ideas, positional statements, and reviews/summaries/comments/techniques on Bayesian and surrogate-assisted search and optimisation. Accepted abstracts will be asked to provide a 15 minute talk with 5 minutes for questions. All presentations will be in-person and submissions are understood to indicate the authors intention to attend in person when submitting.~~
 
-We especially welcome submissions from early career researchers and PhD's. 
+~~We especially welcome submissions from early career researchers and PhD's.~~
 
 ---
 
-Submissions should be in the form of 1-page abstracts (1 page abstract PDF file). 
+~~Submissions should be in the form of 1-page abstracts (1 page abstract PDF file).~~
 
-Please send your submissions to [George De Ath](mailto:g.de.ath@exeter.ac.uk)
+~~Please send your submissions to [George De Ath](mailto:g.de.ath@exeter.ac.uk)~~
 
 ----
 
