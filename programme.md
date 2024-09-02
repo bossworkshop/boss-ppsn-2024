@@ -52,24 +52,6 @@ The workshop will consist of **three invited speakers** (40-45 minutes each) on 
 
 ## **Invited Speakers**
 
-<div id="juergen-branke" style="background-color: #e9f1e9; padding: 15px; margin-bottom: 20px;">
-  <div style="display: flex; flex-direction: column;">
-    <div style="display: flex; align-items: center;">
-      <img src="/images/juergen_branke_profile.jpg" alt="Juergen Branke" style="width: 130px; height: 130px; margin-right: 20px;">
-      <div>
-        <h3>Juergen Branke</h3>
-        <p><strong>Title:</strong> <em>Bayesian Optimisation with Simulation Input Uncertainty:</em></p>
-      </div>
-    </div>
-      <p><strong>Abstract:</strong><br> Bayesian optimisation has proven a very sampling-efficient simulation optimisation algorithm. However, in many cases, the input parameters of the simulation model (e.g., arrival time distributions) are not precisely known. In this talk, I will present how Bayesian optimisation can handle input uncertainty, and even decide whether it is more beneficial to spend additional simulation effort, or collect additional data to reduce the input uncertainty. Finally, we will discuss how the presented framework can also be used in interactive multi-objective optimisation to decide when and how often to interact with a decision maker.</p>    
-    <div>
-      <p><strong>Bio:</strong><br>
-      Juergen Branke is Professor of Operational Research and Systems at Warwick Business School, University of Warwick (UK). His main research interests include metaheuristics and Bayesian optimisation applied to problems under uncertainty, such as simulation optimisation, dynamically changing problems, and multi-objective problems.</p>
-      <p>Prof. Branke is Editor of ACM Transactions on Evolutionary Learning and Optimization, Area Editor of the Journal of Heuristics and the Journal on Multi-Criteria Decision Analysis, as well as Associate Editor of the Evolutionary Computation Journal.</p>
-    </div>
-  </div>
-</div>
-
 <div id="elena-raponi" style="background-color: #f5f9e9; padding: 15px; margin-bottom: 20px;">
   <div style="display: flex; flex-direction: column;">
     <div style="display: flex; align-items: center;">
@@ -86,7 +68,7 @@ I will present a range of techniques, including variable selection, additive mod
       Elena Raponi is an Assistant Professor in the Natural Computing Research Group at the Leiden Institute of Advanced Computer Science, Leiden University. Previously, she was a Postdoctoral Researcher at the Technical University of Munich, Chair of Computational Mechanics, and Sorbonne University, LIP6 Department. Her position was funded by a DAAD Prime Postdoctoral Fellowship, which was awarded in December 2021. She received her Ph.D. in Applied Mathematics from the University of Camerino, Italy, in May 2021. Her research mainly focuses on surrogate-based optimization in continuous domains, high-dimensional Bayesian optimization, and analytical and numerical modeling techniques for the optimization of geometries and materials in structural mechanics.</p>
     </div>
   </div>
-</div> <!-- Missing closing div added here -->
+</div>
 
 <div id="bhupinder-singh-saini" style="background-color: #f9f7e9; padding: 15px; margin-bottom: 20px;">
   <div style="display: flex; flex-direction: column;">
@@ -105,6 +87,24 @@ I will present a range of techniques, including variable selection, additive mod
   </div>
 </div>
 
+<div id="juergen-branke" style="background-color: #e9f1e9; padding: 15px; margin-bottom: 20px;">
+  <div style="display: flex; flex-direction: column;">
+    <div style="display: flex; align-items: center;">
+      <img src="/images/juergen_branke_profile.jpg" alt="Juergen Branke" style="width: 130px; height: 130px; margin-right: 20px;">
+      <div>
+        <h3>Juergen Branke</h3>
+        <p><strong>Title:</strong> <em>Bayesian Optimisation with Simulation Input Uncertainty:</em></p>
+      </div>
+    </div>
+      <p><strong>Abstract:</strong><br> Bayesian optimisation has proven a very sampling-efficient simulation optimisation algorithm. However, in many cases, the input parameters of the simulation model (e.g., arrival time distributions) are not precisely known. In this talk, I will present how Bayesian optimisation can handle input uncertainty, and even decide whether it is more beneficial to spend additional simulation effort, or collect additional data to reduce the input uncertainty. Finally, we will discuss how the presented framework can also be used in interactive multi-objective optimisation to decide when and how often to interact with a decision maker.</p>    
+    <div>
+      <p><strong>Bio:</strong><br>
+      Juergen Branke is Professor of Operational Research and Systems at Warwick Business School, University of Warwick (UK). His main research interests include metaheuristics and Bayesian optimisation applied to problems under uncertainty, such as simulation optimisation, dynamically changing problems, and multi-objective problems.</p>
+      <p>Prof. Branke is Editor of ACM Transactions on Evolutionary Learning and Optimization, Area Editor of the Journal of Heuristics and the Journal on Multi-Criteria Decision Analysis, as well as Associate Editor of the Evolutionary Computation Journal.</p>
+    </div>
+  </div>
+</div>
+
 ## Workshop Talks
 1. TBC
 2. TBC
@@ -112,4 +112,3 @@ I will present a range of techniques, including variable selection, additive mod
 4. TBC
 
 Additional details will be provided as the event date approaches. Please check back for updates.
-
