@@ -72,6 +72,7 @@ I will present a range of techniques, including variable selection, additive mod
     </div>
   </div>
 </div>
+</div>
 
 ## Workshop Talks
 1. TBC
