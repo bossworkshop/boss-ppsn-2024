@@ -12,16 +12,16 @@ The workshop will consist of **three invited speakers** (40-45 minutes each) on 
 | Time   | Activity                                |
 |--------|-----------------------------------------|
 | 09:30  | **Welcome/ Workshop opens** (5 mins)    |
-| 09:35  | **Elena Raponi** - Maximizing Impact with Few Trials Using High-Dimensional Bayesian Optimization (45 mins) |
-| 10:20  | **Bhupinder Singh Saini** - Multiobjective Optimization Method for Problems with Expensive Objective Function Evaluations: Optimistic NAUTILUS Navigator (45 mins) |
+| 09:35  | [**Elena Raponi** - click for title (45 mins)](#elena-raponi) |
+| 10:20  | [**Bhupinder Singh Saini** - click for title (45 mins)](#bhupinder-singh-saini) |
 | 11:05  | **Break** (15 mins)                     |
-| 11:20  | **Juergen Branke** - Bayesian Optimisation with Simulation Input Uncertainty (45 mins) |
+| 11:20  | [**Juergen Branke** - click for title (45 mins)](#juergen-branke) |
 | 12:05  | **Opportunity for discussion**          |
 | 12:30  | **Workshop closes**                     |
 
 ## **Invited Speakers**
 
-<div style="background-color: #e9f1e9; padding: 15px; margin-bottom: 20px;">
+<div id="juergen-branke" style="background-color: #e9f1e9; padding: 15px; margin-bottom: 20px;">
   <div style="display: flex; flex-direction: column;">
     <div style="display: flex; align-items: center;">
       <img src="/images/juergen_branke_profile.jpg" alt="Juergen Branke" style="width: 130px; height: 130px; margin-right: 20px;">
@@ -39,7 +39,7 @@ The workshop will consist of **three invited speakers** (40-45 minutes each) on 
   </div>
 </div>
 
-<div style="background-color: #f5f9e9; padding: 15px; margin-bottom: 20px;">
+<div id="elena-raponi" style="background-color: #f5f9e9; padding: 15px; margin-bottom: 20px;">
   <div style="display: flex; flex-direction: column;">
     <div style="display: flex; align-items: center;">
       <img src="/images/elena_raponi_profile.jpg" alt="Elena Raponi" style="width: 105px; height: 130px; margin-right: 20px;">
@@ -57,7 +57,7 @@ I will present a range of techniques, including variable selection, additive mod
   </div>
 </div>
 
-<div style="background-color: #f9f7e9; padding: 15px; margin-bottom: 20px;">
+<div id="bhupinder-singh-saini" style="background-color: #f9f7e9; padding: 15px; margin-bottom: 20px;">
   <div style="display: flex; flex-direction: column;">
     <div style="display: flex; align-items: center;">
       <img src="/images/Bhupinder_Saini_profile.jpg" alt="Bhupinder Singh Saini" style="width: 130px; height: 130px; margin-right: 20px;">
